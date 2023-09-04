@@ -1,0 +1,40 @@
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 80px;
+
+    color: rgb(46, 89, 188);
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+
+
+
+.pointers-colors,
+.list-item {
+    color: firebrick;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 25px;
+}
+
+.main-body {
+    background-color: blanchedalmond;
+}
+
+h2 {
+    color: rgb(221, 201, 18);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.descriptor {
+    color: firebrick;
+}
+
+.ingredients,
+.steps {
+    color: firebrick;
+    font-weight: bolder;
+}
